@@ -1,0 +1,41 @@
+.nut-tab{
+    height: 600px;
+    margin-bottom: 50px;
+  }
+  .nut-title-nav-leftnav{
+    width: 85px;
+    
+  }
+
+  .nut-tab-title-leftnav .nav-bar-left {
+    width: 2px;
+    right: -2px;
+    top: 0px;
+    background: rgb(15, 131, 240);
+    -webkit-transition: all 0.4s ease-in-out;
+    transition: all 0.4s ease-in-out;
+}
+  .nut-tab-item{
+      height: 100%;
+  }
+  
+
+
+//   vantui样式修改
+  .van-submit-bar{
+      margin-bottom: 50px;
+  }
+
+  .van-card{
+      height: 97px;
+  }
+  .van-card__num{
+      position: absolute;
+      right: 204px;
+      bottom: 1px;
+  }
+  .van-card__footer{
+    position:absolute;
+    bottom: 3px;
+    right: 17px;
+  }
